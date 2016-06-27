@@ -1,0 +1,7 @@
+node_modules
+rethinkdb_data
+target
+resources/public/js
+*.log
+.lein-repl-history
+.hz
